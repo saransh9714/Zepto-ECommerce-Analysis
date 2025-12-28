@@ -1,13 +1,13 @@
 # 📦 Zepto Ecommerce Analysis
 
 ## 📌 Project Overview
-This project presents an end-to-end analysis of e-commerce data inspired by **Zepto’s quick-commerce business model**. The objective is to extract meaningful business insights related to customer behavior, order trends, and revenue performance using **SQL and Excel**. The project demonstrates how data can be transformed into actionable insights to support **data-driven decision-making** in an e-commerce environment.
+This project presents an analysis of e-commerce data inspired by **Zepto’s quick-commerce business model**. The objective is to extract meaningful business insights related to customer behavior, order trends, and revenue performance using **SQL and Excel**. The project demonstrates how data can be transformed into actionable insights to support **data driven decision making** in an e-commerce environment.
 
 ---
 
 ## 🎯 Objectives
 - Analyze order and revenue trends across customers and products  
-- Identify high-value customers and repeat purchase behavior  
+- Identify high value customers and repeat purchase behavior  
 - Understand demand patterns and product performance  
 - Generate business insights and recommendations for growth  
 
@@ -20,13 +20,11 @@ This project presents an end-to-end analysis of e-commerce data inspired by **Ze
 ---
 
 ## 📂 Dataset Description
-The dataset simulates an e-commerce platform with information such as:
+The dataset simulates an e commerce platform with information such as:
 - Customer details  
 - Order transactions  
 - Product categories  
 - Order value and purchase dates  
-
-*(Note: Dataset is used for learning and analytical purposes.)*
 
 ---
 
@@ -48,14 +46,14 @@ The dataset simulates an e-commerce platform with information such as:
 ---
 
 ## 💡 Insights & Recommendations
-- Focus on high-value customers with targeted retention strategies  
+- Focus on high value customers with targeted retention strategies  
 - Optimize inventory for frequently purchased products  
 - Introduce personalized offers based on customer buying patterns  
 
 ---
 
 ## 🚀 Learnings
-- Gained hands-on experience in **SQL-based data analysis**  
+- Gained experience in **SQL-based data analysis**  
 - Strengthened business interpretation of analytical results  
 - Improved ability to communicate insights in a structured manner  
 
@@ -63,16 +61,7 @@ The dataset simulates an e-commerce platform with information such as:
 
 ## 📌 Future Enhancements
 - Add interactive dashboards using Power BI / Tableau  
-- Incorporate real-time or larger datasets  
+- Incorporate real time or larger datasets  
 - Perform deeper cohort and funnel analysis  
 
 ---
-
-## 👤 Author
-**Saransh Thakran**  
-Business Analyst | Data Analysis | SQL | Excel  
-
----
-
-## 📄 License
-This project is licensed under the **MIT License** – feel free to use and modify with attribution.
